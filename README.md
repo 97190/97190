@@ -5,8 +5,13 @@
 
 Hello, I'm Erika :call_me_hand:, 
 
-I'm a web and mobile coder as well a French entrepreneur. I like to use my lines of code to create projects that will change the world :earth_asia:.
+I'm a web and mobile coder as well a French entrepreneur. I like to use my lines of code to create projects that will change the world :earth_asia:
 
+:eyes: Check out my shop 
+
+:orange_book: Read my book
+
+_______________________________________________________________________________________________________________________
 
 💡 Technical stack 
 
