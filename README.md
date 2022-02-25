@@ -1,16 +1,16 @@
 
 
-
+![Cover](https://myoctocat.com/assets/images/base-octocat.svg)
 
 
 
 💡 Technical stack 
 
-Ruby, ruby on rails, vanilla javascript, boostrap, postgresql, clevercloud, git & github. 
+# Ruby, ruby on rails, vanilla javascript, boostrap, postgresql, clevercloud, git & github. 
 
 💻Tools stack
 
-Notion, Slack, Whimsical, Figma, Nocode, Shopify
+### Notion, Slack, Whimsical, Figma, Nocode, Shopify
 
 
 
