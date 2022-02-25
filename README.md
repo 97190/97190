@@ -1,3 +1,9 @@
+
+
+
+
+
+
 💡 Technical stack 
 
 Ruby, ruby on rails, vanilla javascript, boostrap, postgresql, clevercloud, git & github. 
