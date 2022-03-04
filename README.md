@@ -4,13 +4,15 @@
 <!-- ![Cover](https://user-images.githubusercontent.com/86422513/155713968-6cd51691-f976-44c9-a64a-9cf74b70a081.gif#gh-light-mode-only) -->
 
 
-Hello, I'm Erika :call_me_hand:, 
+# Hello, I'm Erika :call_me_hand:, 
 
 I'm a web and mobile coder as well a French entrepreneur. I like to use my lines of code to create projects that will change the world :earth_asia:
 
 :eyes: Check out my shop : https://www.instagram.com/betty_lips/
 
 :orange_book: Read my book : https://www.amazon.fr/dp/B08HXVTGRR 
+
+- 📫 Where to find me : e.mayoute44@gmail.com
 
 _______________________________________________________________________________________________________________________ 
 
