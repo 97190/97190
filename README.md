@@ -12,7 +12,8 @@ I'm a web and mobile coder as well a French entrepreneur. I like to use my lines
 
 :orange_book: Read my book : https://www.amazon.fr/dp/B08HXVTGRR 
 
-- 📫 Where to find me : e.mayoute44@gmail.com
+ 📫 Where to find me : e.mayoute44@gmail.com 
+
 
 _______________________________________________________________________________________________________________________ 
 
@@ -64,6 +65,6 @@ ________________________________________________________________________________
 
 
 
-- 📫 Where to find me ...
+
 
 
