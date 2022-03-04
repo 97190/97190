@@ -1,6 +1,5 @@
-
-
-![Cover](https://user-images.githubusercontent.com/86422513/155713968-6cd51691-f976-44c9-a64a-9cf74b70a081.gif#gh-light-mode-only)
+![Werble-16937D5EF9](https://user-images.githubusercontent.com/86422513/156789602-2f7a30f5-4c07-422b-b680-43e6d81f7fb0.gif)
+<!-- ![Cover](https://user-images.githubusercontent.com/86422513/155713968-6cd51691-f976-44c9-a64a-9cf74b70a081.gif#gh-light-mode-only) -->
 
 
 Hello, I'm Erika :call_me_hand:, 
