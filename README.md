@@ -8,7 +8,7 @@
 
 I'm a web and mobile coder as well a French entrepreneur. I like to use my lines of code to create projects that will change the world :earth_asia:
 
-:eyes: Check out my shop : https://www.instagram.com/betty_lips/
+:eyes: Check out my shop : [instagram]https://www.instagram.com/betty_lips/)
 
 :orange_book: Read my book : https://www.amazon.fr/dp/B08HXVTGRR 
 
