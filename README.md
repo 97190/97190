@@ -16,7 +16,8 @@ I'm a web and mobile coder as well a French entrepreneur. I like to use my lines
  🏁 I’m open to freelance projects
 
  📫 Where to find me : **e.mayoute44@gmail.com** 
-
+ 
+ 📑 I'm interested in : TDD/BDD, WebGL  
 
 _______________________________________________________________________________________________________________________ 
 
